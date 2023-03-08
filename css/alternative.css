@@ -22,7 +22,7 @@ html {
 }
 
 body {
-	font-family: "Erode", serif;
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif'serif;
 	background-color: #ffffff;
 	color: #000020;
 	font-size: clamp(16px, 1.5vw, 20px);
@@ -74,7 +74,7 @@ footer {
 	min-width: 80px;
 	display: flex;
 	flex-flow: column;
-	background-color: #301010;
+	background-color: #FF1493;
 	color: #f0f0f0;
 	height: 100%;
 	background-image: linear-gradient(to bottom, rgba(255, 255, 255, .1), transparent);
@@ -187,7 +187,7 @@ h2 {
 
 .resume-aside {
 	flex: 1 1 250px;
-	background-color: #282840;
+	background-color: #FF1493;
 	color: #f0f0f0;
 	display: flex;
 	flex-flow: column;
