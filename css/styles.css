@@ -1,10 +1,11 @@
 /* Use this file to use your own styles*/
 
-/* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */ url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */ 
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Anuphan', sans-serif;
+	font-family: 'Gloock', serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
